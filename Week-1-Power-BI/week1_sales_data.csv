@@ -1,0 +1,6 @@
+OrderID,Region,Product,Qty,Price,Profit,Total
+1,North,Tablet,6,60,34.54,360
+2,North,Printer,9,40,100.85,360
+3,West,Monitor,4,25,17.20,100
+4,North,Tablet,4,40,41.91,160
+5,West,Laptop,2,80,14.55,160
